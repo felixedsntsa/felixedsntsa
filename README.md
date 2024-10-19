@@ -1,2 +1,2 @@
-<h1>nothing to see</h1>
-👋 Hi, I’m Felix, nice to meet y'all
+<h1>Hi, i am Felix Edna Santosa</h1>
+<p>don't know what to say but, don't stop learning and practices till you die</p>
