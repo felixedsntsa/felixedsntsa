@@ -1,3 +1,21 @@
-<h1>Hi, i am Felix Edna Santosa</h1>
-<p>i like indomie</p>
-<br><p align="center"><img src="https://i.giphy.com/Dg4TxjYikCpiGd7tYs.gif" /></p></br>
+# 👋 Hello! i am IX or you can call me Felix!
+
+Welcome to my GitHub profile! I am a **Information System** student in Jember University that passionate about:
+
+- 💻 Web Development
+- 🌱 Constantly learning new things  
+
+## 🔧 Tools & Technologies
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felixedsntsa&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixedsntsa&layout=compact&theme=tokyonight)
+
+## 📫 Get in Touch
+- Email: [felixednasantosa@gmail.com](mailto:felixednasantosa@gmail.com)
+- LinkedIn: [linkedin.com/in/felix-edna-santosa](https://linkedin.com/in/felix-edna-santosa)
+
+> "Progress over perfection."
+
+Thanks for stopping by! ⭐ Feel free to follow or connect! 😊
