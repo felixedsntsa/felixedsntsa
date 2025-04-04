@@ -1,5 +1,9 @@
 # 👋 Hello! i am IX or you can call me Felix!
 
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/182391439?v=4"/>
+</div>
+
 Welcome to my GitHub profile! I am a **Information System** student in Jember University that passionate about:
 
 - 💻 Web Development
