@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a **Information System** student in Jember Un
 
 ## 📫 Get in Touch
 - Email: [felixednasantosa@gmail.com](mailto:felixednasantosa@gmail.com)
-- LinkedIn: [linkedin.com/in/felix-edna-santosa](https://linkedin.com/in/felix-edna-santosa)
+- LinkedIn: [linkedin.com/in/felix-edna-santosa](https://linkedin.com/in/felix-edna-santosa-1baa452a6)
 
 > "Progress over perfection."
 
