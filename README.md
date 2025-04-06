@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I am a **Information System** student in Jember Un
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felixedsntsa&show_icons=true&theme=tokyonight&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixedsntsa&layout=compact&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=felixedsntsa&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+
 
 ## 📫 Get in Touch
 - Email: [felixednasantosa@gmail.com](mailto:felixednasantosa@gmail.com)
