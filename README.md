@@ -1,6 +1,6 @@
 # 👋 Hello! i am IX or you can call me Felix!
 
-Welcome to my GitHub profile! I am a **Information System** student in Jember University that passionate about:
+Welcome to my GitHub profile! I am a **Information System** student at Jember University that passionate about:
 
 - 💻 Web Development
 - 🌱 Constantly learning new things  
