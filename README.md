@@ -9,9 +9,13 @@ Welcome to my GitHub profile! I am a **Information System** student in Jember Un
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felixedsntsa&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixedsntsa&layout=compact&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=felixedsntsa&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+<p align="center">
+  <a href="https://github.com/felixedsntsa">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felixedsntsa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felixedsntsa&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felixedsntsa&theme=radical&hide_border=false"/>
+  </a>
+</p>
 
 
 ## 📫 Get in Touch
