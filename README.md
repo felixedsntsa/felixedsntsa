@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a **Information System** student at Jember Un
 - 🌱 Constantly learning new things  
 
 ## 🔧 Tools & Technologies
-![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,laravel,python,git,github,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap,php,laravel,python,git,github,vscode,figma)
 
 ## 📊 GitHub Stats
 <p align="center">
