@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I am a **Information System** student at Jember Un
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=felixedsntsa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![GitHub Snake Dark](https://github.com/felixedsntsa/snk/raw/output/github-snake-dark.svg?palette=github-dark)
+
 ## 📫 Get in Touch
 - Email: [felixednasantosa@gmail.com](mailto:felixednasantosa@gmail.com)
 - LinkedIn: [linkedin.com/in/felixsntsa](https://linkedin.com/in/felix-edna-santosa-1baa452a6)
