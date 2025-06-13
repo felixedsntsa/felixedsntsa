@@ -17,6 +17,8 @@ Welcome to my GitHub profile! I am a **Information System** student at Jember Un
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=felixedsntsa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📫 Get in Touch
 - Email: [felixednasantosa@gmail.com](mailto:felixednasantosa@gmail.com)
