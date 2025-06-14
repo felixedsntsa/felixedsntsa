@@ -1,9 +1,6 @@
-# 👋 Hello! i am IX or you can call me Felix!
+# 👋 Hello
 
-Welcome to my GitHub profile! I am a **Information System** student at Jember University that passionate about:
-
-- 💻 Web Development
-- 🌱 Constantly learning new things  
+jeneng kulo felix, matursuwun
 
 ## 🔧 Tools & Technologies
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap,php,laravel,python,git,github,vscode,figma)
