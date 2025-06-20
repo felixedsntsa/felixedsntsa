@@ -10,7 +10,7 @@ jeneng kulo felix, matursuwun
   <a href="https://github.com/felixedsntsa">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felixedsntsa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felixedsntsa&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felixedsntsa&theme=algolia&hide_border=false"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felixedsntsa&theme=algolia&hide_border=false"/> 
   </a>
 </p>
 
