@@ -6,12 +6,9 @@ jeneng kulo felix, matursuwun
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap,php,laravel,python,git,github,vscode,figma)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/felixedsntsa">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felixedsntsa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felixedsntsa&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=felixedsntsa&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=felixedsntsa&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felixedsntsa&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=felixedsntsa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
