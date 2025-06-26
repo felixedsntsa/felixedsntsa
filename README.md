@@ -6,7 +6,7 @@ jeneng kulo felix, matursuwun
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap,php,laravel,python,git,github,vscode,figma)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=felixedsntsa&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=felixedsntsa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=felixedsntsa&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felixedsntsa&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
