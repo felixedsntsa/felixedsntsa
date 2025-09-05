@@ -1,6 +1,6 @@
 # 👋 Hello
 
-jeneng kulo felix, matursuwun
+### i'm Felix Edna Santosa
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=felixedsntsa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)<br/>
